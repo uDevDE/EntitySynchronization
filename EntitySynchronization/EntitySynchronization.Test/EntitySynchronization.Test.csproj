@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EntitySynchronization.Core\EntitySynchronization.Core.csproj" />
+    <ProjectReference Include="..\EntitySynchronizationClient\EntitySynchronization.Client.csproj" />
+    <ProjectReference Include="..\EntitySynchronizationPacket\EntitySynchronization.Packet.csproj" />
+    <ProjectReference Include="..\EntitySynchronizationServer\EntitySynchronization.Server.csproj" />
+  </ItemGroup>
+
+</Project>

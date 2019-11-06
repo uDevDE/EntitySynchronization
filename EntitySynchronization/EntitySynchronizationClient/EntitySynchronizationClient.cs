@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EntitySynchronization
+namespace EntitySynchronization.Client
 {
     public class EntitySynchronizationClient
     {

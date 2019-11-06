@@ -1,5 +1,5 @@
 ﻿
-namespace EntitySynchronizationPacket.Interfaces
+namespace EntitySynchronization.Packet.Interfaces
 {
     public interface IPacket
     {

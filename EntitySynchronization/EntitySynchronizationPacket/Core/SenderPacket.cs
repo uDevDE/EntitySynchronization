@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EntitySynchronizationPacket.Core
+namespace EntitySynchronization.Packet.Core
 {
     public class SenderPacket : Interfaces.IPacket, IDisposable
     {
