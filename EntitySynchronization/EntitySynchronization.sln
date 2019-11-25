@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{63BA67
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntitySynchronization.Packet", "EntitySynchronizationPacket\EntitySynchronization.Packet.csproj", "{F89F68ED-3C62-45BD-B852-9944A61CF7C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitySynchronization.Core", "EntitySynchronization.Core\EntitySynchronization.Core.csproj", "{4F6A6D36-3B9F-4298-87AA-332714305F16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntitySynchronization.Core", "EntitySynchronization.Core\EntitySynchronization.Core.csproj", "{4F6A6D36-3B9F-4298-87AA-332714305F16}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6EE84291-CF36-48E1-B6EA-6F5EA179957C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitySynchronization.Test", "EntitySynchronization.Test\EntitySynchronization.Test.csproj", "{2239395E-479C-4956-B4AE-29B4597C35BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntitySynchronization.Test", "EntitySynchronization.Test\EntitySynchronization.Test.csproj", "{2239395E-479C-4956-B4AE-29B4597C35BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

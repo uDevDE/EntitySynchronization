@@ -6,6 +6,8 @@ namespace EntitySynchronization.Core.Interfaces
     public interface IEntitySyncable
     {
         [EntitySyncId]
-        System.Guid Identifier { get; }
+        System.Guid Id { get; }
+
+        void OnEntityPropertyChanged<T>(T value, [System.Runtime.CompilerServices.CallerMemberName] string propertyName = null);
     }
 }
